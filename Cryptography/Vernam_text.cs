@@ -85,6 +85,7 @@ namespace Securish
 				txtCipher += (char) k;
 			}
 			return txtCipher;
+			//You are an idiot
 		}
 
 		private string DeCrypt(string key)
